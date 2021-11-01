@@ -1,0 +1,16 @@
+[read the method]
+
+[read the geometry]
+
+[read charge]
+
+[calculate number of electrons]
+
+[read the basis_set]
+
+[setup the inital guess]
+
+[perform SCF]
+
+[print E, wf, geometry, orbital]
+
